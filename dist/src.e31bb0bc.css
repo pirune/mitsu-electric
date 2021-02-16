@@ -88,7 +88,8 @@ header {
 }
 header img {
   float: left;
-  width: 105px;
+  width: 115px;
+  margin-top: 5px;
 }
 
 nav {
@@ -369,7 +370,7 @@ footer .iso p {
     padding: 10px 20px 15px;
   }
   header img {
-    width: 150px;
+    width: 250px;
   }
   header nav {
     font-size: 1.8rem;
